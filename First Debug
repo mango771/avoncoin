@@ -1,0 +1,18 @@
+AvonCoin version v1.6.0.0 (2016-09-09 01:06:56 +0530)
+Using OpenSSL version OpenSSL 1.0.1f 6 Jan 2014
+Startup time: 10/16/16 03:04:26
+Default data directory /home/arjun/.AvonCoin
+Used data directory /home/arjun/.AvonCoin/testnet2
+dbenv.open LogDir=/home/arjun/.AvonCoin/testnet2/database ErrorFile=/home/arjun/.AvonCoin/testnet2/db.log
+Bound to [::]:22613
+Bound to 0.0.0.0:22613
+Loading block index...
+CBlock(hash=0d77342ab26567637f2b7413b3a346045049ec2c169f44ba09893aee764fc431, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=29271a33dccba47364efc967e1d5e0b27b35e81524700004d5527fd622678cdc, nTime=1473343982, nBits=1e0fffff, nNonce=13577531, vtx=1, vchBlockSig=)
+  Coinbase(hash=29271a33dc, nTime=1473351588, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000, 4294967295), coinbase 04ffff001d020f273053657074656d62657220392c20323031362c2041726a756e204d6973687261206275696c64732061766f6e636f696e2e)
+    CTxOut(empty)
+  vMerkleTree: 29271a33dc 
+block.GetHash() == 0d77342ab26567637f2b7413b3a346045049ec2c169f44ba09893aee764fc431
+block.hashMerkleRoot == 29271a33dccba47364efc967e1d5e0b27b35e81524700004d5527fd622678cdc
+block.nTime = 1473343982 
+block.nNonce = 13577531 

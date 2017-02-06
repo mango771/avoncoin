@@ -1,0 +1,9 @@
+Building AvonCoin
+
+See doc/readme-qt.rst for instructions on building AvonCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AvonCoin.
+
+See doc/build-*.txt for instructions on building AvonCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AvonCoin.
